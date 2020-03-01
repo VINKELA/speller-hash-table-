@@ -1,0 +1,11 @@
+0.An artificial long word said to mean a lung disease caused by ingaling very fine ash and sand dust.
+1.returns  resource usage measures for a specified parameter.
+2.  16 members
+3.  TODO
+4.  main reads the specified, string or char and stores in the appropriate parameter. in its next read, it continues from next in string or char. it does this till it means an end of file. if the file cannot be accessed or it encounters any error during the read, the function is usually configured to return null.
+5.  The word return by fscanf may not be formatted as wanted by the program or might contain unwanted chars.
+6.  So that it cant be changed during the course of the program.
+7.  Hash table with 675 rows
+8.  it was as planned
+9.  i increased no no of tables from 25 675
+10. yeah somewho it has refused to hash the word "responsible" though check50 marks it all correct.
